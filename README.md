@@ -1,4 +1,7 @@
-## Hi there 👋
+## About Me
+I'm currently enrolled in the Computer Science program at Universidad Autonoma de Nuevo Leon (UANL) in Mexico, i've been interested in learning about new technologies for some time now. Although I have no peofessional experience, I'm looking forward to make new projects and collaborating with new people to gain some experience.
+
+I'm scheduled to graduate in 2027. Currently I code in c++, python and c, also I'm studying to get the ccna (200-301 certification in networking.
 
 <!--
 **carlosValerio5/carlosValerio5** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
