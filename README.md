@@ -1,11 +1,11 @@
 # 💫 About Me:
-Data Scientist II @ SP Global
-📍 Mexico City, México
-Strong skills in OCR, NLP and GenAI.
-"Sometimes it is the people no one can imagine anything of who do the things no one can imagine." - Alan Turing
+Data Scientist II @ SP Global <br>
+📍 Mexico City, México <br>
+Strong skills in OCR, NLP and GenAI. <br>
+"Sometimes it is the people no one can imagine anything of who do the things no one can imagine." - Alan Turing <br>
 
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/carlos-valerio-rios) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:carlosvaleriocs@outlook.com) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/carlos-valerio-rios)
 
 # 💻 Tech Stack:
 **Languages**: <br>![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)<br>
